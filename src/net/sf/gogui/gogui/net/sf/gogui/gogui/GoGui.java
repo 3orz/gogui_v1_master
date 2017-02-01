@@ -151,7 +151,7 @@ import net.sf.gogui.gui.GuiUtil;
 
 
 
-class BgPanel extends JPanel {
+class BgPanel extends JPanel { 
 
 
     Image bg = GuiUtil.getImage("go_wallpaper7","bg");
