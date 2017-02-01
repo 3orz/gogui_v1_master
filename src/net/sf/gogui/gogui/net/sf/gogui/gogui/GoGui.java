@@ -168,7 +168,7 @@ public class GoGui
                GameTreeViewer.Listener, GtpShell.Listener,
                ScoreDialog.Listener, GoGuiMenuBar.Listener,
                ContextMenu.Listener, LiveGfx.Listener 
-{
+{ 
     public enum ShowVariations
     {
         CHILDREN,
